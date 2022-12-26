@@ -7,7 +7,9 @@ Usage
 
 ```
 python3 twitchtimer.py -c [twitch channel] -t [duration in minutes]
-
+```
+Example
+```
 python3 twitchtimer.py -c rtainjapan -t 2 #It will open the channel rtainjapan and the code will run for 2 minutes.
 ```
 ### Requirements
